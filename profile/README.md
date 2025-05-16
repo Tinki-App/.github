@@ -1,6 +1,8 @@
 # **Tinki — Случайные знакомства и друзья по интересам**
 
-# ![Tinki Logo](https://github.com/Tinki-App/.github/blob/main/tinki_logo.png)
+<p align="center">
+  <img src="https://github.com/Tinki-App/.github/blob/main/tinki_logo.png" alt="Tinki Logo" width="150"/>
+</p>
 
 **Tinki** — это приложение, которое помогает находить новых друзей, общаться с людьми по общим интересам и весело проводить время.
 
