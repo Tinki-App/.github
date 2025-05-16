@@ -1,4 +1,4 @@
-<p align="center">
+<p align="left">
   <img src="https://github.com/Tinki-App/.github/blob/main/tinki_logo.png" alt="Tinki Logo" width="150"/>
 </p>
 
